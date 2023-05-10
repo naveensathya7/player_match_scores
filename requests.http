@@ -1,0 +1,5 @@
+GET http://localhost:3000/matches/4/players/
+###
+
+
+GET http://localhost:3000/players/1/playerScores/
